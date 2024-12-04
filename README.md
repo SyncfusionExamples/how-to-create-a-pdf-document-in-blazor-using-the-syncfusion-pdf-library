@@ -1,6 +1,6 @@
-# How to Create a PDF Document in Blazor Using the Syncfusion PDF Library
+# How to Create a PDF Document in Blazor Using the Syncfusion&reg; PDF Library
 
-A quick start Blazor project that shows how to create a PDF document and add text, image, and table to it using the Syncfusion PDF Library.
+A quick start Blazor project that shows how to create a PDF document and add text, image, and table to it using the Syncfusion&reg; PDF Library.
 
 Example: https://blazor.syncfusion.com/demos/pdf/hello-world?theme=fluent
 
